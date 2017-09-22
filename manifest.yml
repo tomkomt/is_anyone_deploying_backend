@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: is-toni-deploying
+  host: is-toni-deploying
+  disk_quota: 1024M
+  services:
+  - is-toni-deploying-cloudantNoSQLDB

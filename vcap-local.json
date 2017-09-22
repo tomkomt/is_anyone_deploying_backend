@@ -1,0 +1,25 @@
+{
+    "cloudantNoSQLDB": [
+        {
+            "credentials": {
+                "username": "9bf47b18-d4a7-437d-9a02-0c8456cdbcdb-bluemix",
+                "password": "f3f4c7d8dd4e4237242c0987302d6b3a4a7370480ca465e86fdff721f57e52d9",
+                "host": "9bf47b18-d4a7-437d-9a02-0c8456cdbcdb-bluemix.cloudant.com",
+                "port": 443,
+                "url": "https://9bf47b18-d4a7-437d-9a02-0c8456cdbcdb-bluemix:f3f4c7d8dd4e4237242c0987302d6b3a4a7370480ca465e86fdff721f57e52d9@9bf47b18-d4a7-437d-9a02-0c8456cdbcdb-bluemix.cloudant.com"
+            },
+            "syslog_drain_url": null,
+            "volume_mounts": [],
+            "label": "cloudantNoSQLDB",
+            "provider": null,
+            "plan": "Lite",
+            "name": "is-toni-deploying-cloudantNoSQLDB",
+            "tags": [
+                "data_management",
+                "ibm_created",
+                "lite",
+                "ibm_dedicated_public"
+            ]
+        }
+    ]
+}
